@@ -1,5 +1,7 @@
 # Meteor Snippets for Sublime Text 2/3
 
+[![Join the chat at https://gitter.im/mrtnbroder/meteor-snippets](https://badges.gitter.im/mrtnbroder/meteor-snippets.svg)](https://gitter.im/mrtnbroder/meteor-snippets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Some snippets for working with the [Meteor](http://meteor.com) framework (v1.0).
 
 Includes snippets for
